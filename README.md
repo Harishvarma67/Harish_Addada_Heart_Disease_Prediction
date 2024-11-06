@@ -16,11 +16,11 @@ The dataset used here dates from 1988 and consists of four databases: Cleveland,
 |  |  |__ Visualization2.png
 |  |  |__ Visualization3.png
 |  |  |__ Visualization4.png
-|  |__ app.py (flaskapi) 
 |  |__ Heart disease Prediction.ipynb (source code - jupyter notebook file) 
-|  |__ heart_model.pkl (pickle file) 
+|  |__ README.md
+|  |__ app.py (flaskapi)  
 |  |__ heart.csv (dataset)
-|  |__ README.md 
+|  |__ heart_model.pkl (pickle file)
 |  |__ requirements.txt
 </pre> 
 
